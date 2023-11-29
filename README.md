@@ -1,8 +1,11 @@
+## Signup Page
+![Screenshot (5274)](https://github.com/sumitkumar16dec/Realtime-Chat-Application/assets/77963232/6dd892f1-0363-47ac-83ca-9ba43b35ef7e)
+
 ## Login Page
-![Screenshot (4906)](https://user-images.githubusercontent.com/77963232/225954021-c41c7171-2cfa-4fc8-8ffa-edd70aa1049a.png)
+![Screenshot (5275)](https://github.com/sumitkumar16dec/Realtime-Chat-Application/assets/77963232/5d76d734-6e95-4ea9-b44a-9f190914b8a6)
 
 ## Chat Page
-![Screenshot (4907)](https://user-images.githubusercontent.com/77963232/225954431-cb2f6ac3-e90a-4a10-8f12-6b742a0d7ca9.png)
+![Screenshot (5276)](https://github.com/sumitkumar16dec/Realtime-Chat-Application/assets/77963232/85e5e039-4482-4fdf-953e-03f6792eefb2)
 
 ## Made with ♥ By Sumit
 
